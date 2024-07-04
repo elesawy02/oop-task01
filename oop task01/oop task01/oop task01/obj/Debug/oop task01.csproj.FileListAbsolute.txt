@@ -1,0 +1,7 @@
+C:\Users\Elesawy\Desktop\oop task01\oop task01\bin\Debug\oop task01.exe.config
+C:\Users\Elesawy\Desktop\oop task01\oop task01\bin\Debug\oop task01.exe
+C:\Users\Elesawy\Desktop\oop task01\oop task01\bin\Debug\oop task01.pdb
+C:\Users\Elesawy\Desktop\oop task01\oop task01\obj\Debug\oop task01.csproj.AssemblyReference.cache
+C:\Users\Elesawy\Desktop\oop task01\oop task01\obj\Debug\oop task01.csproj.CoreCompileInputs.cache
+C:\Users\Elesawy\Desktop\oop task01\oop task01\obj\Debug\oop task01.exe
+C:\Users\Elesawy\Desktop\oop task01\oop task01\obj\Debug\oop task01.pdb
